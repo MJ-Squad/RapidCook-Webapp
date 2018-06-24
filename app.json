@@ -1,0 +1,18 @@
+{
+  "name": "rapidcook-webapp",
+  "scripts": {},
+  "formation": {
+    "npm": {
+      "quantity": 1
+    },
+    "web": {
+      "quantity": 1
+    }
+  },
+  "addons": [],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
