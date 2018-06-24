@@ -1,13 +1,3 @@
 {
-  "CAMPAIGN_URL_TITLE_TEXT": "Please copy paste below URL in browser for more detail",
-  "CAMPAIGN_ERROR_MESSAGE": "Something went wrong please try again",
-  "ZIPCODE_FETCHING_ERROR_MESSAGE": "Internal error unable to fetech zipcodes please try again",
-  "UPLOAD_SHEET_SUCCESS_MESSAGE": "Information about residences successfully uploaded",
-  "UPLOAD_SHEET_FAIL_MESSAGE": "Something went wrong please try again with valid csv/xlsx file",
-  "ADMIN_TITLE_TEXT": "Upload an csv/xlsx sheet with information about residences",
-  "NEW_ENTRIES_ADDED_TEXT": "new entries successfully added",
-  "UPDATED_ENTRIES_TEXT": "existing entries successfully updated",
-  "FAILED_ENTRIES_TEXT": "entries failed",
-  "ENTERNAL_ERROR_MESSAGE": "Intrenal Error",
-  "CAMPAIGN_NOT_EXIST_MESSAGE": "Campaigns not exist"
+  "HELLO_WORLD": "Hello world"
 }
